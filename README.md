@@ -1,3 +1,5 @@
+                                            HOTEL MANAGEMENT SYSTEM
+
 A Hotel Management system is a system where all the details of the customers are stored like customer_id, customer_name, room_type, customer_location, contact_no, check_in_date, check_out_date, breakfast_service_needed (yes/no), guide_needed(yes/no).  Here a small part of implementation has to be done which are as:-
 
 Create a class called hotel_mgmt with above attributes and store the database for 10 customers.
