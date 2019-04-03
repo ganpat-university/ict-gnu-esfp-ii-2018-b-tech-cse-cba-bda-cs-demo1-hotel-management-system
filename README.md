@@ -2,6 +2,7 @@ A Hotel Management system is a system where all the details of the customers are
 
 Create a class called hotel_mgmt with above attributes and store the database for 10 customers.
 Specific task Group Member-1
+
 1. Display all the customers who have ’Delux’ rooms as room type..
 2. Display all the customers who are checking out today. 
 3. Display all the customers who want breakfast service in the room. 
